@@ -1,0 +1,31 @@
+_repo: Speciation-in-the-Kangaroo-Rat-Dipodomys-ordiiKU.-Vol-1-No-23_42810
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42810-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Setzer, Henry W.
+    gutenberg_agent_id: '37478'
+    url: http://www.gutenberg.org/2009/agents/37478
+  editor:
+    agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+description: ''
+gutenberg_issued: '2013-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kangaroo rats'
+- !lcc 'QH'
+title: "Subspeciation in the Kangaroo Rat, Dipodomys ordii\r\nKU. Vol 1 No 23"
+url: http://www.gutenberg.org/ebooks/42810
