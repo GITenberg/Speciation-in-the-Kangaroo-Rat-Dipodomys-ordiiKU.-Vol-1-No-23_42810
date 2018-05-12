@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '26108'
     url: http://www.gutenberg.org/2009/agents/26108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42810#Speciation-in-the-Kangaroo-Rat-Dipodomys-ordiiKU.-Vol-1-No-23
 gutenberg_issued: '2013-05-26'
 gutenberg_type: Text
 identifiers:
